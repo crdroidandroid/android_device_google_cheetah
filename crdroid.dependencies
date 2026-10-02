@@ -2,6 +2,7 @@
   {
     "repository": "crdroidandroid/android_device_google_pantah",
     "target_path": "device/google/pantah"
+   "branch": "17.0"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_google_cheetah",
